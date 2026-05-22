@@ -1,0 +1,7 @@
+SampleAccession,CellLine,Dataset,Temperature,ProcessType,ProductType,SelectionMarker,CulturePhase,Condition
+ERS4805134,CHO-K1,Dhiman,37,FedBatch,NA,GS-/-,EarlyExp,host
+ERS4805143,CHO-K1,Dhiman,37,FedBatch,NA,GS-/-,EarlyExp,host
+ERS4805152,CHO-K1,Dhiman,37,FedBatch,NA,GS-/-,EarlyExp,host
+ERS4805136,CHO-K1,Dhiman,37,FedBatch,mAb,GS-/-,EarlyExp,producer
+ERS4805145,CHO-K1,Dhiman,37,FedBatch,mAb,GS-/-,EarlyExp,producer
+ERS4805154,CHO-K1,Dhiman,37,FedBatch,mAb,GS-/-,EarlyExp,producer
