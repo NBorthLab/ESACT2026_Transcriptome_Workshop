@@ -1,7 +1,7 @@
-SampleAccession,CellLine,Dataset,Temperature,ProcessType,ProductType,SelectionMarker,Condition
-ERS4805133,CHO-K1,Dhiman,37,FedBatch,NA,GS+/-,host
-ERS4805142,CHO-K1,Dhiman,37,FedBatch,NA,GS+/-,host
-ERS4805151,CHO-K1,Dhiman,37,FedBatch,NA,GS+/-,host
-ERS4805136,CHO-K1,Dhiman,37,FedBatch,mAb,GS-/-,producer
-ERS4805145,CHO-K1,Dhiman,37,FedBatch,mAb,GS-/-,producer
-ERS4805154,CHO-K1,Dhiman,37,FedBatch,mAb,GS-/-,producer
+SampleAccession,CellLine,ProductType,Temperature,ProcessType,Condition
+ERS4805133,CHO-K1,NA,37,FedBatch,host
+ERS4805142,CHO-K1,NA,37,FedBatch,host
+ERS4805151,CHO-K1,NA,37,FedBatch,host
+ERS4805136,CHO-K1,mAb,37,FedBatch,producer
+ERS4805145,CHO-K1,mAb,37,FedBatch,producer
+ERS4805154,CHO-K1,mAb,37,FedBatch,producer
